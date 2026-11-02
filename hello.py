@@ -1,6 +1,6 @@
 # My First python program
 
-name = "Rahul"
+name = "Honey"
 
 print("Hello, GitHub!")
 print("welcome", name)
