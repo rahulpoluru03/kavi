@@ -2,7 +2,7 @@
 
 name = "Rahul"
 
-print("Hello, GitHub!")
+print("Hello, world!")
 print("welcome", name)
 
 a = 10
